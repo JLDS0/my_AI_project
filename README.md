@@ -6,6 +6,8 @@ Final project for the Building AI course
 
 Este proyecto propone una inteligencia artificial para asistir a administradores de fincas y presidentes de comunidades de propietarios en la gestión de tareas administrativas. La IA responderá preguntas sobre proveedores, contratos de mantenimiento, averías, servicios de limpieza e impuestos, entre otros.
 
+![image of an online cat](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Edificio_en_calle_Bohemios_%28Madrid%29.jpg/320px-Edificio_en_calle_Bohemios_%28Madrid%29.jpg)
+
 ## Background
 
 La gestión de una comunidad de propietarios puede ser compleja, especialmente para quienes asumen el rol de presidente sin experiencia previa. Este proyecto busca simplificar y agilizar la administración proporcionando respuestas rápidas y precisas a las dudas más comunes.
